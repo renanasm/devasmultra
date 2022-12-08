@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['globals.py', 'app.py', 'components\\calendarios.py', 'components\\sidebar.py', 'df_receitas.csv', 'teste.csv', 'df_cat_receita.csv', 'df_cat_despesa.csv', 'df_despesas.csv', 'components\\dashboards.py', 'myindex.py', 'components\\extratos.py', 'components\\dresetembro.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
